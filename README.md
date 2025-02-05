@@ -21,18 +21,21 @@ _(but not directly on the broker)_
 # Some Screenshots
 
 - REST-ful Api response:
-![REST-api-response](./src/main/resources/markdown/images/REST-api-response.png)
+![REST-api-response](src/main/resources/markdown/images/REST-api-response.png)
 <br>
 <br>
 <br>
 <br>
 - WebSocket Connection for two clients (_usual_ and _private_ browser tabs)
     - **_Usual Browser Tab_**
-![usual-browser-tab-client.png](./src/main/resources/markdown/images/usual-browser-tab-client.png)
+  
+![usual-browser-tab-client.png](src/main/resources/markdown/images/usual-browser-tab-client.png)
+
 <br>
 <br>
     - **_Private Browser Tab_**
-![private-browser-tab-client.png](./src/main/resources/markdown/images/private-browser-tab-client.png)
+
+![private-browser-tab-client.png](src/main/resources/markdown/images/private-browser-tab-client.png)
   
 <br>
 <br>
