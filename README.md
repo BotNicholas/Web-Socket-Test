@@ -29,12 +29,8 @@ _(but not directly on the broker)_
 - WebSocket Connection for two clients (_usual_ and _private_ browser tabs)
   - **_Usual Browser Tab_**
 ![usual-browser-tab-client.png](src/main/resources/markdown/images/usual-browser-tab-client.png)
-<br>
-<br>
   - **_Private Browser Tab_**
 ![private-browser-tab-client.png](src/main/resources/markdown/images/private-browser-tab-client.png)
-<br>
-<br>
 
 ### Here comes another very important conclusion! : 
 **The** broker itself **will RECEIVE messages on the topic/** path, 
